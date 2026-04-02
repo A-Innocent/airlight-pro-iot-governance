@@ -1,7 +1,7 @@
 # =============================================================================
 # AirLight Pro IoT Governance System
 # ERD Generator — draws the star schema as a PNG using matplotlib
-# Author: Alantz
+# Author: Alantz Innocent
 # =============================================================================
 
 import matplotlib.pyplot as plt
