@@ -26,7 +26,7 @@ DB_CONFIG = {
     "port":     5432,
     "dbname":   "postgres",
     "user":     "postgres",
-    "password": "postgres",   # <-- update if different
+    "password": "Innocent#8389",
     "options":  "-c search_path=airlight"
 }
 
